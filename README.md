@@ -28,9 +28,9 @@ The model shows a significant underreporting of cases post-January 2, 2022. Our 
 
 ## How to Use
 
-Clone the repository and run the Python scripts to simulate the SIR model and compare it with real-world data.
+To run the project, simply open the notebook in Google Colab:
 
-```bash
-git clone https://github.com/yourusername/COVID-SIR-Laval.git
-cd COVID-SIR-Laval
-python sir_model.py
+1. Clone the repository or download the notebook.
+2. Open [Google Colab](https://colab.research.google.com/).
+3. Upload the notebook `SIR_Laval_Project.ipynb` to Colab.
+4. Run the cells to simulate the SIR model and compare the results with real-world data.
